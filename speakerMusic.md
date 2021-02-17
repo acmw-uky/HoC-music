@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /SpeakerMusic/
+permalink: /speakerMusic/
 title: "SpeakerMusic Code"
 ---
 

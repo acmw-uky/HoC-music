@@ -1,8 +1,7 @@
 ---
 layout: default
-permalink: /speakerMusic/
+permalink: /SpeakerMusic/
 title: "SpeakerMusic Code"
-
---
+---
 
 Hello, this is a test.

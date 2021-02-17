@@ -6,5 +6,3 @@ title: "SpeakerMusic Code"
 --
 
 Hello, this is a test.
-
-<div><p><?php include('speakerMusic.ino'); ?></p></div>

@@ -6,7 +6,7 @@ title: "EasyBuzzer Code"
 
 This is the code to EasyBuzzer.ino, which demonstrates Arduino code structure and three key functions.
 
-'''
+```
   //intialize the pin that is hooked up to the buzzer
   const int buzzerPin = 9;
 
@@ -23,7 +23,7 @@ This is the code to EasyBuzzer.ino, which demonstrates Arduino code structure an
     noTone(buzzerPin);        //this function will stop the sound
     delay(1000);              //wait before looping
   }
-'''
+```
 
 test
 

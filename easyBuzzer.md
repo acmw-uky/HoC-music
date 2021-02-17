@@ -23,3 +23,9 @@ This is the code to EasyBuzzer.ino, which demonstrates Arduino code structure an
     delay(1000);              //wait before looping
   }
 </code> </pre>
+
+test
+
+<code>
+  <embed src="easyBuzzer.ino">
+</code>

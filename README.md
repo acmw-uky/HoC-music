@@ -20,3 +20,7 @@ LEARNING GOALS:
 - How does a program control a machine?
 - What are some basic programming components (i.e. variables, functions, loops)?
 - What was difficult to understand? What was easy to understand? Why do you think it was difficult/easy?
+
+MATERIALS NEEDED:
+- Computer with Arudino IDE
+- Arduino 

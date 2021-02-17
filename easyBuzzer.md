@@ -26,6 +26,4 @@ This is the code to EasyBuzzer.ino, which demonstrates Arduino code structure an
 
 test
 
-<code>
-  <embed src="easyBuzzer.ino">
-</code>
+<embed src="easyBuzzer.ino">

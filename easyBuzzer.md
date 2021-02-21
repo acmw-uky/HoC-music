@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /EasyBuzzer/
+permalink: /easyBuzzer/
 title: "EasyBuzzer Code"
 ---
 
@@ -24,7 +24,3 @@ This is the code to EasyBuzzer.ino, which demonstrates Arduino code structure an
     delay(1000);              //wait before looping
   }
 ```
-
-test
-
-<embed src="easyBuzzer.ino">

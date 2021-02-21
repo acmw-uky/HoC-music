@@ -11,6 +11,7 @@ MATERIALS NEEDED:
 - Template programs (easyBuzer.ino and speakerMusic.ino)
 - Song file for speakerMusic program (songs.txt)
 - Workshop cheatsheet
+
 OR:
 - Computer with Internet access for tinkercad.com
 
